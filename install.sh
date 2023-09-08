@@ -2,7 +2,6 @@
 #Github: Github.com/AQBro
 #Youtube: https://www.youtube.com/@AQ_Bro
 #Facebook: https://fb.me/Abdulqayoombooharpage
-#Phone: +84937927513
 echo "Preparing...."
 wget -O ngrok-stable-linux-amd64.zip "https://github.com/AQBro/Rdp/blob/main/ngrok-stable-linux-amd64.zip?raw=true" > /dev/null 2>&1
 unzip ngrok-stable-linux-amd64.zip > /dev/null 2>&1; rm ngrok-stable-linux-amd64.zip 2> /dev/null
